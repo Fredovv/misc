@@ -1,0 +1,16 @@
+import java.awt.*;
+
+public class PlayField extend JPanel {
+
+    private int posX = 50;
+    private int posY
+
+    public void drawField() {
+	G
+	java.awt.Graphics.drawRect(0, 0, 30, 40);
+    }
+
+    public static void main () {
+	drawField();
+    }
+}

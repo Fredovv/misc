@@ -1,0 +1,9 @@
+package graphics;
+
+public class GameField {
+
+    public static void main() {
+	g2.draw(new Rect2D.Double(0, 0, 30, 40));
+    }
+    
+}
